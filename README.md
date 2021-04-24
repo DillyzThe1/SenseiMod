@@ -15,6 +15,8 @@ https://discord.gg/2GTBQPMEVb - My main server full of chaos, designed for my Yo
 # Sourced code
 https://github.com/NotHunter101/ExtraRolesAmongUs
 https://gist.github.com/Pandapip1/b306f77187ce2f25e73be2560da4aa5f
+https://github.com/slushiegoose/Town-Of-Us
+https://github.com/CrowdedMods/CrowdedMod
 
 
 # Note
