@@ -1,7 +1,8 @@
 # IMPORTANT NOTICE
-THIS MOD IS SUPER OLD AND IS BEING REMADE FROM THE GROUND UP IN LATEST BUILDS OF THE GAME.<br>
-PLEASE CHECK OUT MY DRAPI-MOD-MANAGER PROGRAM WHEN IT RELEASES TO EASILY INSTALL!!<br>
-THIS SECTION WILL BE UPDATED SHORTLY BEFORE ARCHIVAL WITH A LINK TO THE MOD MANAGER'S INSTALLER.
+THIS VERSION OF THE MOD IS SUPER OUT OF DATE AND HAS BEEN REMADE FROM THE GROUND UP!<br>
+YOU SHOULD USE THE BRAND NEW MOD MANAGER!<br>
+https://github.com/DillyzThe1/DRAPI-Mod-Manager#installation
+
 # Sensei Role
 This gamemode adds a NEW role to among us called the Sensei! Basically, you're a fast crewmate that zooms around the map when nobodys around. But whenever you want to, you can reveal your old sword ~~you bought for 14.99 yesterday~~! Be careful, as this can actually help the impostors if you going on a killing spree. You are supposed to be the crew's GUARD.
 WARNING: MAKE SURE YOU HAVE AMONG US 4.12s or 4.14s!
