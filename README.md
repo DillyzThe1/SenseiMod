@@ -1,6 +1,7 @@
 # IMPORTANT NOTICE
 THIS VERSION OF THE MOD IS SUPER OUT OF DATE AND HAS BEEN REMADE FROM THE GROUND UP!<br>
 YOU SHOULD USE THE BRAND NEW MOD MANAGER!<br>
+(The remake is inside of DillyzLegacyPack)<br>
 https://github.com/DillyzThe1/DRAPI-Mod-Manager#installation
 
 # Sensei Role
